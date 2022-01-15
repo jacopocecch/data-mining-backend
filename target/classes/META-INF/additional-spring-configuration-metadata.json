@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "clustering.mode",
+      "type": "java.lang.String",
+      "description": "Description for clustering mode."
+    },
+    {
+      "name": "clustering.block-size-threshold",
+      "type": "java.lang.Integer",
+      "description": "Description for block size threshold."
+    },
+    {
+      "name": "clustering.attribute-selection",
+      "type": "java.lang.Boolean",
+      "description": "Description for attribute selection."
+    },
+    {
+      "name": "clustering.python.path",
+      "type": "java.lang.String",
+      "description": "Description for clustering python path."
+    }
+  ]
+}
